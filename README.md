@@ -1,5 +1,9 @@
 # 📊 AI Data Analyst Agent
 
+## Dashboard Preview
+
+![AI Data Analyst Dashboard](assets/data-analyst-dashboard.png)
+
 An AI-powered data analysis application that allows users to upload CSV datasets and ask analytical questions in natural language.
 
 The system automatically understands the analytical intent, generates safe SQL queries, executes them with DuckDB, produces business insights, and selects an appropriate visualization.
