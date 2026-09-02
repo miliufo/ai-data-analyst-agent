@@ -1,0 +1,7 @@
+openai
+python-dotenv
+langgraph
+streamlit
+pandas
+duckdb
+plotly

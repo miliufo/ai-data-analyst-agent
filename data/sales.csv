@@ -1,0 +1,19 @@
+order_id,date,customer,category,product,quantity,unit_price,revenue,region
+1001,2026-01-05,Acme Corp,Electronics,Laptop,2,1200,2400,Central Europe
+1002,2026-01-08,Nova Labs,Accessories,Wireless Mouse,10,35,350,Western Europe
+1003,2026-01-12,BluePeak,Electronics,Monitor,5,320,1600,Northern Europe
+1004,2026-02-02,Vertex GmbH,Accessories,Mechanical Keyboard,8,95,760,Central Europe
+1005,2026-02-10,Orbit Systems,Electronics,Laptop,3,1180,3540,Western Europe
+1006,2026-02-18,Northstar Ltd,Software,Analytics License,12,150,1800,Northern Europe
+1007,2026-03-03,Acme Corp,Software,Cloud Subscription,6,220,1320,Central Europe
+1008,2026-03-09,Nova Labs,Electronics,Monitor,4,310,1240,Western Europe
+1009,2026-03-15,BluePeak,Accessories,Wireless Mouse,15,34,510,Northern Europe
+1010,2026-04-01,Vertex GmbH,Software,Cloud Subscription,10,225,2250,Central Europe
+1011,2026-04-07,Orbit Systems,Electronics,Laptop,2,1210,2420,Western Europe
+1012,2026-04-18,Northstar Ltd,Accessories,Mechanical Keyboard,6,92,552,Northern Europe
+1013,2026-05-04,Acme Corp,Electronics,Monitor,7,315,2205,Central Europe
+1014,2026-05-11,Nova Labs,Software,Analytics License,9,155,1395,Western Europe
+1015,2026-05-22,BluePeak,Electronics,Laptop,1,1190,1190,Northern Europe
+1016,2026-06-06,Vertex GmbH,Accessories,Wireless Mouse,20,33,660,Central Europe
+1017,2026-06-14,Orbit Systems,Software,Cloud Subscription,8,230,1840,Western Europe
+1018,2026-06-27,Northstar Ltd,Electronics,Monitor,6,325,1950,Northern Europe

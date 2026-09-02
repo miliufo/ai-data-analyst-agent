@@ -1,0 +1,37 @@
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Uploaded / temporary datasets
+/tmp/
+temp/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
